@@ -1,4 +1,4 @@
-# Depedency
+# Dependencies
 1. [qb-core](https://github.com/qbcore-framework/qb-core)
 2. [ox_lib](https://github.com/overextended/ox_lib)
 3. [ox_target](https://github.com/overextended/ox_target)
@@ -56,6 +56,7 @@
 # To do
  - Create logging for each Placed/Destroyed camera.
  - Create an admin view of the camera list allowing camera to be remotely destroyed via the menu.0
+
 
 
 For any support needed, join the discord: https://discord.gg/CgUjYhUKQy
